@@ -15,6 +15,6 @@ class Blocks {
 fun main() {
     val blockA = arrayOf(1, "4", 2, "3")
     var result = robotPaphnutiy.getData(blockA, String::class)
-    print(result)
+
     //assertEquals("43", robotPaphnutiy.getData(blockA, String::class))
 }
